@@ -1,0 +1,19 @@
+.page3_content{
+ margin-top: 180px;
+}
+
+@media screen and (min-width:770px) and (max-width:950px){
+    .page3_content{
+        padding-top: 180px;
+       }
+}
+@media screen and (max-width:770px) {
+    .page3_content{
+        text-align: center;
+        
+    }
+    .page3_content > p{
+        margin: auto;
+    }
+    
+}

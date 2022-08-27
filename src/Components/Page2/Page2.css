@@ -1,0 +1,15 @@
+.page2{
+    padding-bottom: 4%;
+}
+.search_section{
+    display: flex;
+    align-items: center;
+    padding:0 10px;
+}
+.page2_searchTitle{
+    margin-left: 5%;
+}
+.page2_searchContent{
+    display: flex;
+    justify-content: space-evenly;
+}

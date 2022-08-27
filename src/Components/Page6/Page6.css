@@ -1,0 +1,29 @@
+.page6{
+   background-color:  #FFFFFF;
+}
+.page6_header{
+    text-align: center;
+}
+.page6_header > p{
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+text-align: center;
+
+color: #0AB79B;
+}
+
+.page6_iconContainer{
+    border-radius: 20px;
+    background-color: #97c9c2;
+    height: 179.77032470703125px;
+    width: 216.69610595703125px;
+    text-align: center;
+    padding-top: 25%;
+    font-size: x-large;
+}

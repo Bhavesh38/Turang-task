@@ -1,0 +1,35 @@
+.page4{
+    padding: 5%;
+}
+
+.page4_header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 2%;
+}
+
+.page4_headerLeft > p {
+color: rgb(67, 203, 203);
+}
+.page4_headerRight{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2%;
+    margin-top: 2%;
+    bottom: 0;
+}
+.icon_left{
+    background-color: rgb(185, 180, 180);
+    height: fit-content;
+    color: white;
+    margin-right: 10px;
+    
+}
+
+.icon_right{
+    background-color: black;
+    height: fit-content;
+    color: white; 
+}
+
